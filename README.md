@@ -133,6 +133,3 @@ TG_My_BOT_Universal3/
 └── README.md          # этот файл
 ```
 
-## Лицензия
-
-Private.
